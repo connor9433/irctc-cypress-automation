@@ -1,31 +1,17 @@
 {
-  "TRAIN_NO": "22197",
+  "TRAIN_NO": "12245",
   "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "09/02/2025",
-  "SOURCE_STATION": "KOAA",
+  "TRAVEL_DATE": "15/02/2025",
+  "SOURCE_STATION": "HWH",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "PRYJ",
+  "DESTINATION_STATION": "SMVB",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "rajaj421@ybl",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Arpita Roy Chowdhury",
-      "AGE": 25,
-      "GENDER": "Female",
-      "SEAT": "No Preference",
-      "FOOD" "No Food"
-    },
-    {
       "NAME": "nitya jana",
       "AGE": 31,
-      "GENDER": "Male",
-      "SEAT": "No Preference",
-      "FOOD" "No Food"
-    },
-    {
-      "NAME": "Subhajit banik",
-      "AGE": 30,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD" "No Food"
